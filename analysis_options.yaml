@@ -5,3 +5,9 @@ analyzer:
 linter:
   rules:
     file_names: false
+    prefer_final_locals: false
+    prefer_final_parameters: false
+    prefer_final_in_for_each: false
+    prefer_final_fields: false
+    omit_local_variable_types: false
+    lines_longer_than_80_chars: false
