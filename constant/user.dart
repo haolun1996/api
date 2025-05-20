@@ -17,11 +17,9 @@ final Map<String, dynamic> userList = {
       'name': 'Jeremy',
       'email': 'jeremy@gmail.com',
       'address': {
-        'address': {
-          'street': 'no. 21, Jalan Besar, Taman Kecil',
-          'city': 'Kuala Lumpur',
-          'zipcode': '52100',
-        },
+        'street': 'no. 21, Jalan Besar, Taman Kecil',
+        'city': 'Kuala Lumpur',
+        'zipcode': '52100',
       },
       'phone': '0168882444',
     },
@@ -31,11 +29,9 @@ final Map<String, dynamic> userList = {
       'username': 'Samantha',
       'email': 'Nathan@yesenia.net',
       'address': {
-        'address': {
-          'street': 'no. 108, Jalan Maluri, Taman Sama-sama',
-          'city': 'Kuala Lumpur',
-          'zipcode': '52100',
-        },
+        'street': 'no. 108, Jalan Maluri, Taman Sama-sama',
+        'city': 'Kuala Lumpur',
+        'zipcode': '52100',
       },
       'phone': '0123456789',
     },
